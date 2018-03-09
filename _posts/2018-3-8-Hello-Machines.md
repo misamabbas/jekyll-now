@@ -11,7 +11,7 @@ title: Thought Vectors
 
 [Wocky the Bot](https://talk.verbalanalytics.com/talk.html)
 
-[Important Sentence Identification] (https://demo.verbalanalytics.com/hilite.html)
+[Important Sentence Identification](https://demo.verbalanalytics.com/hilite.html)
 
 [Word Vector Math](https://demo.verbalanalytics.com/vec.html)
 
@@ -23,4 +23,4 @@ title: Thought Vectors
 
 [Personal Website](http://www.misamabbas.com)
 
-[Older Blog] (http://analytics.misamabbas.com)
+[Older Blog](http://analytics.misamabbas.com)
