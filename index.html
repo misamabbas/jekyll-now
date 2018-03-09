@@ -9,10 +9,15 @@ layout: default
       <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
 
       <div class="entry">
-        {{ post.content | truncatewords:200}}
+        {{ post.content | truncatewords:50}}
       </div>
 
       <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
     </article>
   {% endfor %}
+</div>
+
+<div>
+  <a class="twitter-timeline" href="https://twitter.com/misamabbas?ref_src=twsrc%5Etfw">Tweets by misamabbas</a> 
+  <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 </div>
