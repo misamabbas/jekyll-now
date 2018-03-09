@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+I am a sofware engineer and machine learning practitioner with particular interest in Natural Language Processing.
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+I enjoy conceiving and building technology solutions.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[m@ephipi.com](mailto:m@ephipi.com )
