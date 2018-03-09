@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Thought Vectors
+title: 
 ---
 
 ## NLP Demos
