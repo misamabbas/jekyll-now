@@ -2,7 +2,6 @@
 layout: post
 title: NLP Demos
 ---
-
 [Author Similarity](https://demo.verbalanalytics.com/authsim.html)
 
 [Sentiment Analysis](https://demo.verbalanalytics.com/senti.html)
@@ -16,6 +15,8 @@ title: NLP Demos
 ## More
 
 [Kaggle Profile](https://www.kaggle.com/misamabbas)
+
+[Google Scholar Profile](https://scholar.google.com/citations?hl=en&user=u6suQ0MAAAAJ)
 
 [Blog](http://blog.verbalanalytics.com)
 
